@@ -1,66 +1,42 @@
-<a href="#"><img width="100%" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/023/138/759/original/helena-viana-anime-girl-welcome-by-ell.gif?1578239624" height="175px"/></a>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narabordee Wirakkamo
+============================================================================================================================================
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NongTham</h1>
-<h3 align="center">I'm just an apprentice programmer.</h3>
+Software Developer
+------------------
 
-## 🙋‍♂️ About Me
+I'm just an apprentice programmer
 
-- 🔭 I’m currently working on **[Not yet.](-)**
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [naraberdee1@gmail.com](mailto:naraberdee1@gmail.com)
+* 🚀  I'm currently working on [Maki Service Shop](http://maki-service.cloud/)
+* 🧠  I'm learning TypeScript
 
-- 🌱 I’m currently learning **mastering different languages.**
+<a href="https://www.github.com/NongTham" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NongTham?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### Socials
 
-- 👨‍💻 All of my projects are available at **[Not yet.](-)**
+<p align="left"> <a href="https://www.facebook.com/kong.art.5648" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/NongTham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nt_nongtham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-- 📫 How to reach me **naraberdee1@gmail.com**
+### Badges
 
-- ⚡ Fun fact **I like reading.**
+<b>My GitHub Stats</b>
 
-## 🚀 Languages and Tools:
+<a href="http://www.github.com/NongTham"><img src="https://github-readme-stats.vercel.app/api?username=NongTham&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NongTham's GitHub stats" /></a>
 
-<p align="center"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+<a href="http://www.github.com/NongTham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NongTham&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<a href="http://www.github.com/NongTham"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NongTham&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<p align="center">
-    <a href="https://github.com/NongTham/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NongTham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<a href="https://github.com/NongTham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NongTham&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 📊 My Github Stats
+<b>Top Repositories</b>
 
-  <br/>
-    <a href="https://github.com/NongTham/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NongTham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/NongTham/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NongTham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+### Support Me
 
-<br/>
-<br/>
-
-<a href="https://github.com/NongTham/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NongTham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NongTham&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/NongTham" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/NongTham" alt="Profile Forks"></a>
-</div>
-
+<a href="https://www.buymeacoffee.com/naraberdee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <div align="center">
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

@@ -37,23 +37,3 @@ src="https://img.shields.io/github/followers/NongTham?logo=github&style=for-the-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/naraberdee"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-<div align="center">
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://twitter.com/Nong_Tham1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/tham_yui/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCFTt6csY28fqF8-J0mhQumQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/NongTham/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NongTham">
-</a>
-<a href="https://github.com/NongTham?tab=followers"><img src="https://img.shields.io/github/followers/NongTham?label=Followers&style=social" alt="GitHub Badge"></a>

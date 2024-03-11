@@ -8,7 +8,7 @@ I'm just an apprentice programmer
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [naraberdee1@gmail.com](mailto:naraberdee1@gmail.com)
-* 🚀  I'm currently working on [Maki Service Shop](http://maki-service.cloud/)
+* 🚀  I'm currently working on [Maki Service Shop](https://client.maki-service.xyz/)
 * 🧠  I'm learning TypeScript
 
 <a href="https://www.github.com/NongTham" target="_blank" rel="noreferrer"><img

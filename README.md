@@ -52,7 +52,7 @@
     <td width="50%">
       <h4><a href="https://github.com/NongTham/Vernam-Cipher-One-Time-Pad-">Vernam Cipher One Time Pad</a></h4>
       <p><em>Command-line Python program for encrypting and decrypting files using Vernam Cipher (One-Time Pad) with key generation function. A simple tool for demonstrating Vernam Cipher (One-Time Pad) encryption.</em></p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NongTham&repo=XtonBot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NongTham&repo=Vernam-Cipher-One-Time-Pad-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
     </td>
   </tr>
 </table>
